@@ -1,4 +1,4 @@
-import Components from "./Components/Components.js";
+import Components from "./components/Components.js";
 
 function App() {
   return (
